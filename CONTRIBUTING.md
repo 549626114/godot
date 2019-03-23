@@ -11,21 +11,20 @@ Sections covered in this file:
 
 ## Reporting bugs or proposing features
 
-The golden rule is to **always open *one* issue for *one* bug**. If you notice
-several bugs and want to report them, make sure to create one new issue for
-each of them.
+The golden rule is to **always open *one* issue for *one* bug**. Several bugs
+should be reported by creating one new issue for each of them.
 
 Everything referred to hereafter as "bug" also applies for feature requests.
 
-If you are reporting a new issue, you will make our life much simpler (and the
-fix come much sooner) by following those guidelines:
+Reporting a new issue by following those guidelines makes life much simpler (and
+the fix come much sooner) :
 
 #### Search first in the existing database
 
 Issues are often reported several times by various users. It's a good practice
-to **search first** in the issues database before reporting your issue. If you
-don't find a relevant match or if you are unsure, don't hesitate to **open a
-new issue**. The bugsquad will handle it from there if it's a duplicate.
+to **search first** in the issues database before reporting an issue. But don't
+hesitate to **open a new issue**. The bugsquad will handle it if there is
+a duplicate.
 
 #### Specify the platform
 
